@@ -1,0 +1,9 @@
+.selected{
+  background-color: indianred;
+}
+p{
+  word-wrap: break-word;
+}
+.cardList{
+  display: block;
+}

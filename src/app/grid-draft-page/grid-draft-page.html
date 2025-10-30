@@ -1,0 +1,72 @@
+<body>
+<mat-grid-list cols="4" rowHeight="2:1">
+  <mat-grid-tile>
+    <button mat-button (click)="nextGrid()" [disabled]="gridsRemaining<=0">NEXT GRID</button>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <button mat-button (click)="select([0,3,6])">select</button>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <button mat-button (click)="select([1,4,7])">select</button>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <button mat-button (click)="select([2,5,8])">select</button>
+  </mat-grid-tile>
+
+  <mat-grid-tile>
+    <button mat-button (click)="select([0,1,2])">select</button>
+  </mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(0)}">
+    <img src="{{this.getURL(0)}}" alt=""/>
+  </mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(1)}">
+    <img src="{{this.getURL(1)}}" alt=""/></mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(2)}">
+    <img src="{{this.getURL(2)}}" alt=""/></mat-grid-tile>
+
+  <mat-grid-tile>
+    <button mat-button (click)="select([3,4,5])">select</button>
+  </mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(3)}">
+    <img src="{{this.getURL(3)}}" alt=""/></mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(4)}">
+    <img src="{{this.getURL(4)}}" alt=""/></mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(5)}">
+    <img src="{{this.getURL(5)}}" alt=""/></mat-grid-tile>
+
+  <mat-grid-tile>
+    <button mat-button (click)="select([6,7,8])">select</button>
+  </mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(6)}">
+    <img src="{{this.getURL(6)}}" alt=""/></mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(7)}">
+    <img src="{{this.getURL(7)}}" alt=""/></mat-grid-tile>
+  <mat-grid-tile [ngClass]="{'selected':hasBeenSelected(8)}">
+    <img src="{{this.getURL(8)}}" alt=""/></mat-grid-tile>
+</mat-grid-list>
+<mat-grid-list cols="3">
+  <mat-grid-tile>
+    <mat-grid-tile-header>Player 1 List</mat-grid-tile-header>
+    <br>
+    <mat-list>
+      @for (card of this.draftService.player1.cards; track $index) {
+        <mat-list-item>1 {{ card.stripped_title }}</mat-list-item>
+      }
+    </mat-list>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <mat-grid-tile-header>Player 2 List</mat-grid-tile-header>
+    <br>
+    <mat-list>
+      @for (card of this.draftService.player2.cards; track $index) {
+        <mat-list-item>1 {{ card.stripped_title }}</mat-list-item>
+      }
+    </mat-list>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <p>Grids Remaining: {{gridsRemaining}}</p>
+    <br>
+    <p>Current Player: {{currentPlayer}}</p>
+  </mat-grid-tile>
+</mat-grid-list>
+</body>

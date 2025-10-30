@@ -1,0 +1,415 @@
+1 Alice Merchant: Clan Agitator
+1 Armand "Geist" Walker: Tech Lord
+1 Captain Padma Ibister: Intrepid Explorer
+1 Freedom Khumalo: Crypto-Anarchist
+1 Hayley Kaplan: Universal Scholar
+1 Kabonesa Wu: Netspace Thrillseeker
+1 Leela Patel: Trained Pragmatist
+1 MaxX: Maximum Punk Rock
+1 Nyusha "Sable" Sintashta: Symphonic Prodigy
+1 Quetzal: Free Spirit
+1 Reina Roja: Freedom Fighter
+1 René "Loup" Arcemont: Party Animal
+1 Rielle "Kit" Peddler: Transhuman
+1 Steve Cambridge: Master Grifter
+1 Sunny Lebeau: Security Specialist
+1 Tāo Salonga: Telepresence Magician
+1 "Freedom Through Equality"
+2 Account Siphon
+1 Apocalypse
+1 Ashen Epilogue
+1 Bahia Bands
+1 Black Hat
+1 Blueberry!™ Diesel
+1 Bravado
+1 Build Script
+1 Burner
+2 Career Fair
+2 Carpe Diem
+1 Chastushka
+1 Clean Getaway
+1 Cold Read
+1 Compile
+1 Corporate "Grant"
+1 Creative Commission
+2 Credit Kiting
+1 Day Job
+1 Deep Data Mining
+1 Deep Dive
+1 Déjà Vu
+1 Deuces Wild
+1 Diesel
+1 Dirty Laundry
+1 Diversion of Funds
+1 Divide and Conquer
+1 Drive By
+1 Easy Mark
+1 Emergency Shutdown
+1 Emergent Creativity
+1 En Passant
+1 Exploit
+1 Eye for an Eye
+2 Falsified Credentials
+1 Finality
+1 Fisk Investment Seminar
+1 Forked
+1 Frantic Coding
+1 Guinea Pig
+1 Hacktivist Meeting
+1 High-Stakes Job
+2 Hostage
+1 Hot Pursuit
+1 I've Had Worse
+1 Illumination
+2 Indexing
+1 Information Sifting
+1 Inject
+2 Inside Job
+2 Into the Depths
+2 Jailbreak
+1 Joy Ride
+1 Katorga Breakout
+1 Knifed
+1 Labor Rights
+1 Leave No Trace
+1 Legwork
+2 Levy AR Lab Access
+1 Lie Low
+2 Lucky Find
+1 Mad Dash
+1 Marathon
+2 Mining Accident
+1 Moshing
+1 Mutual Favor
+1 Office Supplies
+1 On the Lam
+1 Overclock
+1 Peace in Our Time
+1 Pinhole Threading
+1 Planned Assault
+1 Prey
+1 Privileged Access
+1 Quality Time
+1 Queen's Gambit
+1 Quest Completed
+2 Retrieval Run
+2 Rigging Up
+1 Running Hot
+1 Scavenge
+1 Scrounge
+1 Spark of Inspiration
+1 Spear Phishing
+1 Spec Work
+1 Special Order
+1 Spooned
+1 Steelskin Scarring
+2 Stimhack
+1 Strike Fund
+3 Sure Gamble
+2 Test Run
+1 The Maker’s Eye
+1 The Price
+1 Tinkering
+1 Transfer of Wealth
+1 Tread Lightly
+1 Trick Shot
+1 Vamp
+1 VRcation
+1 Wanton Destruction
+1 White Hat
+1 Wildcat Strike
+1 Akamatsu Mem Chip
+1 Alarm Clock
+1 Aniccam
+1 Astrolabe
+1 Basilar Synthgland 2KVJ
+1 Boomerang
+1 Buffer Drive
+1 Cataloguer
+1 Clone Chip
+1 Cyberdelia
+1 Cyberfeeder
+1 Desperado
+1 Devil Charm
+1 Dinosaurus
+1 Docklands Pass
+1 Dyson Mem Chip
+1 DZMZ Optimizer
+1 e3 Feedback Implants
+1 Flip Switch
+1 Friday Chip
+1 Gachapon
+1 GAMEDRAGON™ Pro
+1 Grimoire
+2 Hippo
+1 Hippocampic Mechanocytes
+1 Keiko
+1 Knobkierie
+1 LilyPAD
+1 LLDS Memory Diamond
+2 Lockpick
+1 Lucky Charm
+1 Madani
+1 Maglectric Rapid (748 Mod)
+1 Masterwork (v37)
+1 Maw
+1 MemStrips
+1 Mu Safecracker
+1 Net-Ready Eyes
+1 Obelus
+1 PAN-Weave
+1 Paragon
+1 Poison Vial
+2 Prepaid VoicePAD
+1 Prognostic Q-Loop
+1 Public Terminal
+1 R&D Interface
+3 Rabbit Hole
+1 Rubicon Switch
+2 Security Nexus
+1 Simulchip
+2 Sports Hopper
+1 Time Bomb
+1 Turntable
+1 Virtuoso
+1 WAKE Implant v2A-JRJ
+1 Zenit Chip JZ-2MJ
+1 Zer0
+1 "Baklan" Bochkin
+1 "Knickknack" O’Brian
+1 Aaron Marrón
+1 Aeneas Informant
+2 Aesop’s Pawnshop
+1 Always Be Running
+1 Armitage Codebusting
+1 Arruaceiras Crew
+1 Artist Colony
+1 Asmund Pudlat
+1 Avgustina Ivanovskaya
+1 Backstitching
+1 Bank Job
+1 Beth Kilrain-Chang
+1 Bhagat
+1 Cacophony
+2 Citadel Sanctuary
+1 Cookbook
+1 Counter Surveillance
+2 Crowdfunding
+1 Cybertrooper Talut
+2 Daily Casts
+1 Data Folding
+2 Data Leak Reversal
+1 DDoS
+1 Dean Lister
+1 Debbie "Downtown" Moreira
+1 Dr. Nuka Vrolyck
+1 DreamNet
+1 Drug Dealer
+2 Earthrise Hotel
+2 Environmental Testing
+1 Eru Ayase-Pessoa
+2 Fall Guy
+3 Fan Site
+1 Fencer Fueno
+1 Film Critic
+1 Find the Truth
+1 Fransofia Ward
+1 Gang Sign
+1 Gbahali
+1 Globalsec Security Clearance
+1 Hunting Grounds
+1 Ice Carver
+1 Info Bounty
+1 Jackpot!
+1 Jak Sinclair
+1 John Masanori
+1 Joshua B.
+2 Kati Jones
+1 Kongamato
+1 Laguna Velasco District
+2 Liberated Account
+1 Light the Fire!
+1 Logic Bomb
+1 Manuel Lattes de Moura
+1 Miss Bones
+1 Muertos Gang Member
+1 Mystic Maemi
+1 No Free Lunch
+1 Off-Campus Apartment
+1 Open Market
+1 PAD Tap
+1 Paladin Poemu
+1 Paparazzi
+1 Penumbral Toolkit
+3 Personal Workshop
+1 Political Operative
+2 Power Tap
+2 Professional Contacts
+1 Psych Mike
+1 Reclaim
+1 Red Team
+1 Rent Rioters
+2 Rogue Trading
+1 Sacrificial Construct
+3 Same Old Thing
+2 Scrubber
+1 Security Testing
+1 Smartware Distributor
+1 Stoneship Chart Room
+2 Street Peddler
+1 Symmetrical Visage
+3 Tech Trader
+1 Technical Writer
+1 Telework Contract
+1 The Black File
+1 The Class Act
+1 The Shadow Net
+1 The Source
+1 The Supplier
+1 The Turning Wheel
+1 The Twinning
+2 Trickster Taka
+1 Tsakhia "Bankhar" Gantulga
+1 Underworld Contact
+1 Utopia Shard
+1 Valentina Ferreira Carvalho
+1 Verbal Plasticity
+1 Virus Breeding Ground
+1 Wasteland
+2 Wireless Net Pavilion
+1 Xanadu
+1 Abagnale
+1 Afterimage
+1 Amina
+1 Atman
+1 Audrey v2
+1 Aumakua
+1 Banner
+1 Battering Ram
+1 Berserker
+1 Black Orchestra
+1 Blackstone
+1 Breach
+1 Bukhgalter
+1 Buzzsaw
+1 Cat's Cradle
+1 Cerberus "Lady" H1
+1 Chameleon
+1 Cleaver
+1 Corroder
+1 Crowbar
+1 Crypsis
+1 Cyber-Cypher
+1 Dagger
+1 Darwin
+1 Deus X
+1 Eater
+1 Engolo
+1 Euler
+1 Faerie
+1 Faust
+1 Femme Fatale
+1 Gauss
+1 Golden
+1 Gordian Blade
+1 GS Sherman M3
+1 GS Shrike M2
+1 GS Striker M1
+1 Hantu
+1 Houdini
+1 Hyperbaric
+1 Ika
+1 Inti
+1 Knight
+1 Laamb
+1 Lobisomem
+1 Makler
+1 Mayfly
+1 Mimic
+1 MKUltra
+1 Mongoose
+1 Morning Star
+1 Na'Not'K
+1 Orca
+1 Overmind
+1 Paperclip
+1 Passport
+1 Penrose
+1 Peregrine
+1 Principia
+1 Propeller
+1 Refractor
+1 Revolver
+1 Rising Tide
+1 Saker
+1 Sang Kancil
+1 Sharpshooter
+1 Shiv
+1 Spike
+1 Switchblade
+1 Tunnel Vision
+1 Tycoon
+1 Unity
+1 Yog.0
+1 Yusuf
+1 ZU.13 Key Master
+1 Azimat
+1 Bankroll
+1 Botulus
+3 Cache
+1 Cezve
+1 Chakana
+1 Chisel
+1 Chromatophores
+1 Coalescence
+1 Conduit
+1 Consume
+1 Crescentus
+1 Cupellation
+2 D4v1d
+3 Datasucker
+1 DaVinci
+1 Devadatta Drone
+2 Dhegdheer
+1 Djinn
+1 Equivocation
+1 Fermenter
+1 Gorman Drip v1
+1 Gourmand
+2 Grappling Hook
+1 Gravedigger
+1 Harbinger
+1 Hemorrhage
+1 Hivemind
+1 Hush
+2 Hyperdriver
+2 Imp
+1 Incubator
+1 Keyhole
+1 Kyuban
+1 Lamprey
+1 Magnum Opus
+3 Mantle
+1 Medium
+1 Multithreader
+1 Muse
+1 Nerve Agent
+1 Paintbrush
+2 Parasite
+1 Pelangi
+1 Physarum Entangler
+1 Pichação
+1 Progenitor
+1 Reaver
+1 Rezeki
+1 RNG Key
+1 Rook
+1 Sahasrara
+3 Self-modifying Code
+1 Sneakdoor Beta
+1 Stargate
+1 Surfer
+1 Tapwrm
+1 Tranquilizer
+1 Trope
+1 Trypano

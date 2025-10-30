@@ -1,0 +1,435 @@
+1 A Teia: IP Recovery
+1 Epiphany Analytica: Nations Undivided
+1 Haas-Bioroid: Precision Design
+1 Industrial Genomics: Growing Solutions
+1 Jinteki Biotech: Life Imagined
+1 Jinteki: Personal Evolution
+1 Jinteki: Replicating Perfection
+1 NBN: Reality Plus
+1 Near-Earth Hub: Broadcast Center
+1 NEXT Design: Guarding the Net
+1 Ob Superheavy Logistics: Extract, Export, Excel
+1 Saraswati Mnemonics: Endless Exploration
+1 Sportsmetal: Go Big or Go Home
+1 Tennin Institute: The Secrets Within
+1 The Outfit: Family Owned and Operated
+1 The Zwicky Group: Invisible Hands
+1 15 Minutes
+1 Above the Law
+1 Accelerated Beta Test
+1 Aggressive Trendsetting
+1 AR-Enhanced Security
+1 Armed Intimidation
+1 Artificial Cryptocrash
+1 Azef Protocol
+1 Bacterial Programming
+1 Bifrost Array
+1 Blood in the Water
+2 Breaking News
+1 Chronos Project
+2 City Works Project
+1 Clone Retirement
+1 Corporate Sales Team
+1 Cyberdex Sandbox
+1 Eden Fragment
+2 Efficiency Committee
+1 Elective Upgrade
+1 Eminent Domain
+3 Evidence Collection
+3 Evidence Collection 2
+3 Evidence Collection 3
+3 Evidence Collection 4
+3 Executive Retreat
+1 Explode-a-palooza
+1 False Lead
+1 Freedom of Information
+1 Fujii Asset Retrieval
+1 Geothermal Fracking
+2 Global Food Initiative
+1 Government Takeover
+2 Hostile Takeover
+2 House of Knives
+1 Hyperloop Extension
+1 Ikawah Project
+1 Kingmaking
+1 Longevity Serum
+1 Luminal Transubstantiation
+1 Mandatory Upgrades
+2 NAPD Contract
+1 Next Big Thing
+1 Nisei MK II
+1 Oaktown Renovation
+1 Obokata Protocol
+1 Offworld Office
+2 Oracle Thinktank
+1 Philotic Entanglement
+1 Profiteering
+2 Project Atlas
+2 Project Beale
+2 Project Vitruvius
+1 Proprionegation
+2 Quantum Predictive Model
+1 Regulatory Capture
+1 Remastered Edition
+1 Remote Enforcement
+1 Salvo Testing
+1 SDS Drone Deployment
+2 Send a Message
+1 Sericulture Expansion
+1 Slash and Burn Agriculture
+1 SSL Endorsement
+1 Successful Field Test
+1 Superconducting Hub
+1 The Basalt Spire
+1 The Future is Now
+2 The Future Perfect
+1 Tomorrow's Headline
+1 Viral Weaponization
+1 Adonis Campaign
+1 Advanced Assembly Lines
+1 Aggressive Secretary
+1 Amani Senai
+1 Anson Rose
+1 Anthill Excavation Contract
+1 Balanced Coverage
+1 Bass CH1R180G4
+1 Bio-Ethics Association
+1 Blacklist
+1 Bladderwort
+1 Breached Dome
+2 Cerebral Overwriter
+1 Chairman Hiro
+1 Charlotte Caçador
+1 Chekist Scion
+1 Clearinghouse
+1 Clone Suffrage Movement
+1 Cohort Guidance Program
+1 Commercial Bankers Group
+1 Contract Killer
+2 Cybernetics Court
+1 Cybersand Harvester
+2 Daily Business Show
+1 Daily Quest
+1 Director Haas
+1 Drago Ivanov
+1 Elizabeth Mills
+2 Estelle Moon
+1 Eve Campaign
+1 Executive Boot Camp
+1 False Flag
+1 Gaslight
+1 Gene Splicer
+1 Hostile Architecture
+1 Humanoid Resources
+1 Idiosyncresis
+1 Illegal Arms Factory
+1 Jeeves Model Bioroids
+1 Lady Liberty
+1 Lily Lockwell
+1 Malia Z0L0K4
+2 Marilyn Campaign
+1 Marked Accounts
+1 MCA Austerity Policy
+1 Melange Mining Corp.
+1 Moon Pool
+1 Mumba Temple
+1 Mumbad City Hall
+1 Museum of History
+1 NASX
+1 NGO Front
+1 Nico Campaign
+1 Otto Campaign
+2 PAD Campaign
+1 Plutus
+1 Prāna Condenser
+2 Project Junebug
+1 Psychic Field
+1 Public Access Plaza
+2 Rashida Jaheem
+1 Reality Threedee
+1 Reaper Function
+1 Reconstruction Contract
+1 Regolith Mining License
+1 Reversed Accounts
+2 Ronin
+1 Roughneck Repair Squad
+1 Sandburg
+1 Sensie Actors Union
+1 Shock!
+3 Snare!
+1 Spin Doctor
+1 Sundew
+1 Svyatogor Excavator
+1 Team Sponsorship
+2 Tech Startup
+2 Turtlebacks
+1 Urban Renewal
+1 Urtica Cipher
+1 Vera Ivanovna Shuyskaya
+1 Wage Workers
+1 Warm Reception
+1 Zealous Judge
+1 "Clones are not People"
+1 24/7 News Cycle
+2 Accelerated Diagnostics
+1 Archived Memories
+1 Ark Lockdown
+1 Audacity
+1 Beanstalk Royalties
+1 Best Defense
+1 Big Deal
+2 Biotic Labor
+1 Blue Level Clearance
+2 BOOM!
+1 Celebrity Gift
+1 Closed Accounts
+1 Consulting Visit
+1 Corporate Hospitality
+2 Dedication Ceremony
+2 Economic Warfare
+1 End of the Line
+1 Enforced Curfew
+1 Exchange of Information
+1 Extract
+1 Fast Track
+1 Fully Operational
+1 Game Changer
+1 Genotyping
+1 Greasing the Palm
+1 Green Level Clearance
+1 Hansei Review
+1 Hard-Hitting News
+2 Hasty Relocation
+3 Hedge Fund
+2 Hunter Seeker
+2 Interns
+1 IPO
+1 Kakurenbo
+1 Lateral Growth
+1 Market Forces
+1 Mass Commercialization
+1 Midseason Replacements
+1 Mindscaping
+1 Mitosis
+2 Mushin No Shin
+1 Mutually Assured Destruction
+1 Neural EMP
+1 Neurospike
+1 Nonequivalent Exchange
+1 Oppo Research
+1 Oversight AI
+1 Paywall Implementation
+1 Peer Review
+1 Petty Cash
+1 Pivot
+1 Predictive Planogram
+1 Preemptive Action
+1 Priority Construction
+1 Psychographics
+1 Public Trail
+2 Punitive Counterstrike
+1 Red Level Clearance
+1 Red Planet Couriers
+1 Restore
+1 Restructure
+1 Retribution
+1 Scapenet
+1 Scorched Earth
+1 SEA Source
+1 Seamless Launch
+1 Shipment from Kaguya
+1 Shipment from MirrorMorph
+3 Shipment from SanSan
+1 Shipment from Tennin
+1 Simulation Reset
+1 Sprint
+1 Stock Buy-Back
+1 Subliminal Messaging
+1 Successful Demonstration
+1 Sudden Commandment
+1 Sweeps Week
+1 Too Big to Fail
+2 Trick of Light
+1 Trojan Horse
+1 Trust Operation
+2 Ultraviolet Clearance
+1 Violet Level Clearance
+1 Wake Up Call
+1 Adrian Seis
+1 AMAZE Amusements
+1 Angelique Garza Correa
+1 Anoetic Void
+1 Arella Salvatore
+1 Ash 2X3ZB9CY
+1 Bio Vault
+1 Breaker Bay Grid
+1 Calibration Testing
+1 Caprice Nisei
+1 Code Replicator
+1 Corporate Troubleshooter
+2 Crisium Grid
+1 Cyberdex Virus Suite
+1 Forced Connection
+1 Ganked!
+1 Hokusai Grid
+1 K. P. Lynn
+1 Keegan Lane
+1 La Costa Grid
+1 Malapert Data Vault
+1 Manegarm Skunkworks
+1 Mason Bellamy
+1 Mitra Aman
+1 Mr. Hendrik
+1 Mumbad Virtual Tour
+1 Prisec
+1 Product Placement
+1 Red Herrings
+1 SanSan City Grid
+1 The Holo Man
+1 Tranquility Home Grid
+1 Vladisibirsk City Grid
+1 Vovô Ozetti
+1 Yakov Erikovich Avdakov
+1 ZATO City Grid
+1 Ablative Barrier
+1 Akhet
+1 Asteroid Belt
+1 Bastion
+1 Border Control
+1 Boto
+1 Brân 1.0
+1 Bulwark
+1 Chiyashi
+1 Data Loop
+3 Echo
+1 Eli 1.0
+1 Endless EULA
+1 Envelope
+1 Envelopment
+1 Gold Farmer
+1 Hagen
+1 Hákarl 1.0
+1 Heimdall 1.0
+1 Hive
+1 Ice Wall
+1 IP Block
+1 Kakugo
+1 Kessleroid
+1 Klevetnik
+1 Maskirovka
+1 Masvingo
+1 Meru Mati
+1 Najja 1.0
+1 Palisade
+1 Pharos
+1 Ping
+1 Resistor
+1 Sandstone
+1 Seidr Adaptive Barrier
+1 Semak-samun
+1 Spiderweb
+1 Tatu-Bola
+1 Tithonium
+1 Tree Line
+1 Vanilla
+1 Wall of Static
+1 Wall of Thorns
+1 Wraparound
+1 Afshar
+1 Aiki
+1 Archangel
+1 Authenticator
+1 Crick
+1 Descent
+1 Diviner
+1 DNA Tracker
+1 Engram Flush
+1 Enigma
+1 Fairchild 2.0
+1 Fairchild 3.0
+1 Flyswatter
+1 Funhouse
+1 Gatekeeper
+1 Hortum
+1 IQ
+1 Little Engine
+1 Lotus Field
+1 Macrophage
+1 Magnet
+1 Mausolus
+1 Mestnichestvo
+1 Mycoweb
+1 Oduduwa
+1 Piranhas
+2 Pop-up Window
+2 Pulse
+1 Quandary
+1 Ravana 1.0
+1 Scatter Field
+1 Slot Machine
+1 Syailendra
+1 Thimblerig
+1 Tollbooth
+1 Turing
+1 Valentão
+1 Viktor 1.0
+1 Viktor 2.0
+1 Viper
+3 Wave
+1 Whitespace
+1 Wormhole
+1 Yagura
+1 Hafrún
+1 Orion
+1 Excalibur
+1 Loki
+1 Lycian Multi-Munition
+1 Mother Goddess
+1 Sadaka
+1 Special Offer
+1 Anansi
+1 Anemone
+1 Ansel 1.0
+1 Archer
+1 Architect
+1 Bathynomus
+1 Biawak
+2 Bloop
+1 Brainstorm
+1 Caduceus
+1 Cobra
+1 Colossus
+1 Cortex Lock
+1 Data Raven
+1 Doomscroll
+1 Drafter
+1 Fenris
+1 Grim
+1 Guard
+1 Gutenberg
+1 Hammer
+1 Hydra
+1 Ichi 1.0
+1 Ichi 2.0
+1 Jua
+1 Komainu
+1 Mlinzi
+1 Neural Katana
+1 Pup
+1 Rototurret
+1 Saisentan
+1 Sapper
+1 Shadow
+1 Sherlock 2.0
+1 Starlit Knight
+1 Stavka
+1 Surveyor
+1 Swordsman
+1 Tithe
+1 Tour Guide
+1 Trebuchet
+1 Tribunal
+1 Tsurugi
+1 Turnpike
+1 Týr
+1 Vikram 1.0
